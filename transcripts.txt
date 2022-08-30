@@ -1,0 +1,6 @@
+Math, 6.5
+English Literature,12.56
+Math, 13.8
+Java, 12.5
+Database, 13.6
+Database, 18
